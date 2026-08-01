@@ -7,7 +7,8 @@ Automated Python algorithms for clinical diagnostic evaluation and medical labor
 
 ## 🔬 Included Diagnostic Modules
 
-* **[diabetes.py](./diabetes.py)** – Parses patient blood glucose datasets to classify diagnostic statuses (Normal, Prediabetes, or Diabetes) based on clinical threshold criteria.
+* **[diabetes.py](./diabetes.py)** – Parses patient blood glucose datasets to classify diagnostic statuses (Normal, Prediabetes, or Diabetes) based on clinical threshold criteria.[diabetes.py](https://github.com/shivamsingh18914-collab/bmls-python-scripts/blob/main/diabetes.py)
+
 * **[anemia_report.py](./anemia_report.py)** – Evaluates hemoglobin and hematocrit parameters across patient profiles to flag potential anemia markers.
 
 ---
