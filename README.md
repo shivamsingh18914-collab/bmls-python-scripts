@@ -12,3 +12,6 @@ Automated Python algorithms for clinical diagnostic evaluation and medical labor
 
 ---
 *Built as part of an ongoing computational biophysics & clinical diagnostics portfolio.*
+
+[diabetes.py](https://github.com/Shivamsingh18914-collab/bmls-python-scripts/blob/main/diabetes.py)
+
