@@ -11,7 +11,5 @@ Automated Python algorithms for clinical diagnostic evaluation and medical labor
 * **[anemia_report.py](./anemia_report.py)** – Evaluates hemoglobin and hematocrit parameters across patient profiles to flag potential anemia markers.
 
 ---
-*Built as part of an ongoing computational biophysics & clinical diagnostics portfolio.*
-
-[diabetes.py](https://github.com/Shivamsingh18914-collab/bmls-python-scripts/blob/main/diabetes.py). 
+*Built as part of an ongoing computational biophysics
 
