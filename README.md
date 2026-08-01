@@ -1,10 +1,14 @@
 # bmls-python-scripts
 Here u can see my medical base coding even if feels like normal program 
 
+# bmls-python-scripts
 
-https://github.com/code50/306106511/blob/main/diabetes.py
-it is for diabetes which has 3 patient data
+Automated Python algorithms for clinical diagnostic evaluation and medical laboratory data analysis.
 
-https://github.com/code50/306106511/blob/main/anemia_report.py
+## 🔬 Included Diagnostic Modules
 
-it is for anemia with 3 patient data 
+* **[diabetes.py](./diabetes.py)** – Parses patient blood glucose datasets to classify diagnostic statuses (Normal, Prediabetes, or Diabetes) based on clinical threshold criteria.
+* **[anemia_report.py](./anemia_report.py)** – Evaluates hemoglobin and hematocrit parameters across patient profiles to flag potential anemia markers.
+
+---
+*Built as part of an ongoing computational biophysics & clinical diagnostics portfolio.*
