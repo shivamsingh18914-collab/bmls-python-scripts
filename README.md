@@ -1,3 +1,23 @@
+# Hi, I'm Shivam Pushpendra Singh 👋
+**BMLS Student & Independent Computational Biophysics Researcher**
+
+I bridge the gap between clinical pathology data and mathematical epidemiology. I build independent, physics-grounded models to simulate biological systems and infectious disease dynamics.
+
+---
+
+### 🔬 What I Do With Code
+* **Epidemiological Modeling**: Translating WHO clinical guidelines into discrete mathematical sequences (e.g., Dengue and Cholera transmission vectors).
+* **Clinical Data Architecture**: Building logic pipelines to process, sanitize, and validate diagnostic laboratory datasets (Hematology & Renal metrics).
+* **First-Principles Validation**: Using chemical thermodynamics and physics boundaries to ground computational biological structures.
+
+---
+
+### 🛠️ Tech Stack & Scientific Identifiers
+* **Languages & Environments**: Python, Linux (Termux Terminal Pipeline), VS Code.
+* **Core Frameworks**: Currently mastering core computer science structures (Harvard CS50P) and single-variable calculus.
+* **Academic Identity**: Verified Independent Contributor via [ORCID iD: 0009-0005-5562-7315](https://orcid.org).
+
+*Developing computational workflows entirely via a high-friction mobile setup before my first undergraduate semester.*
 # bmls-python-scripts
 Here u can see my medical base coding even if feels like normal program 
 
